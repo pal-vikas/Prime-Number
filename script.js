@@ -1,4 +1,4 @@
-let pr = prompt("Enter your number");
+let pr = prompt("Enter your number : ");
 
 if (pr === null) {
     console.log("Cancelled");
